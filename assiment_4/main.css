@@ -1,14 +1,29 @@
+
+
 body {
     background-color: aqua;
 }
+
+/*----------------------------------head----------------------------------*/
+
 h1{
     color: darkcyan;
     text-align: center;
 }
+
+/*----------------------------------all section text----------------------------------*/
+
 p{
     color: brown;
     font-family: Verdana;
     font-size: 20px;
+}
+
+/*----------------------------------section----------------------------------*/
+
+h2{
+    color: rgb(38, 59, 177);
+    text-align: center;
 }
 
 /*----------------------------------meau----------------------------------*/
@@ -34,6 +49,4 @@ p{
 .topnav a.active{
     background-color: rgb(245, 93, 126);
     color: aliceblue;
-
-
 }
