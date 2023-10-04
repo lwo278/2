@@ -1,0 +1,44 @@
+body {
+    background-color: aqua;
+}
+
+/*----------------------------------head----------------------------------*/
+
+h1{
+    color: darkcyan;
+    text-align: center;
+}
+
+/*----------------------------------meau----------------------------------*/
+.topnav{
+    overflow: hidden;
+    background-color: rgb(150, 214, 107);
+}
+
+.topnav a{
+    float: left;
+    color: brown;
+    text-align: center;
+    padding: 15px 18px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+.topnav a:hover{
+    background-color: rgb(182, 106, 206);
+    color: black;
+}
+
+.topnav a.active{
+    background-color: rgb(245, 93, 126);
+    color: aliceblue;
+}
+
+/*----------------------------------all section text----------------------------------*/
+
+p{
+    color: brown;
+    font-family: Verdana;
+    font-size: 20px;
+    
+}
