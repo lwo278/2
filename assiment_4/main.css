@@ -11,21 +11,6 @@ h1{
     text-align: center;
 }
 
-/*----------------------------------all section text----------------------------------*/
-
-p{
-    color: brown;
-    font-family: Verdana;
-    font-size: 20px;
-}
-
-/*----------------------------------section----------------------------------*/
-
-h2{
-    color: rgb(38, 59, 177);
-    text-align: center;
-}
-
 /*----------------------------------meau----------------------------------*/
 .topnav{
     overflow: hidden;
@@ -36,7 +21,7 @@ h2{
     float: left;
     color: brown;
     text-align: center;
-    padding: 14px 15px;
+    padding: 15px 18px;
     text-decoration: none;
     font-size: 17px;
 }
@@ -50,3 +35,30 @@ h2{
     background-color: rgb(245, 93, 126);
     color: aliceblue;
 }
+
+/*----------------------------------all section text----------------------------------*/
+
+p{
+    color: brown;
+    font-family: Verdana;
+    font-size: 20px;
+    
+}
+
+/*----------------------------------section----------------------------------*/
+
+h2{
+    color: rgb(38, 59, 177);
+    text-align: center;
+}
+
+/*----------------------------------How to choose a pet for yourself?----------------------------------*/
+
+.box{
+    background-color: aliceblue;
+    width: 600px;
+    border: 15px solid green;
+    padding: 50px;
+    margin: 20px;
+}
+
